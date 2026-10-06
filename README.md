@@ -2,7 +2,7 @@
   <h2 align="center"><strong>Safe-Sora: Safe Text-to-Video Generation<br> via Graphical Watermarking</strong></h2>
 
 <p align="center">
-  <a href="https://github.com/Sugewud">Zihan Su<sup>1</sup></a>,
+  <a href="https://github.com/Zihan-Su">Zihan Su<sup>1</sup></a>,
   <a href="https://scholar.google.com/citations?user=bMwW4e8AAAAJ&hl=zh-CN">Xuerui Qiu<sup>2</sup></a>,
   <a href="https://scholar.google.com/citations?hl=zh-CN&user=mRC_emoAAAAJ">Hongbin Xu<sup>3</sup></a>,
   <a href="https://dblp.org/pid/369/7675.html">Tangyu Jiang<sup>1</sup></a>,
@@ -25,7 +25,7 @@
 <div align="center">
 
 <div style="text-align: center;">
-  <a href='https://sugewud.github.io/Safe-Sora-project/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
+  <a href='https://zihan-su.github.io/Safe-Sora-project/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;
   <a href='https://arxiv.org/abs/2505.12667'><img src='https://img.shields.io/badge/arXiv-2505.12667-b31b1b.svg'></a>
 </div>
 
